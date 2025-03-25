@@ -4,7 +4,11 @@ The course project will involve building "InstaLite," an Instagram-like social m
 
 * Hosting a website on EC2 from Homework 1
 * Matching images from Homework 2 Milestone 1, leveraging embeddings, ChromaDB, and TensorflowJS
+* Spark-based recommendations from Homework 3 Milestones 1 and 2
 * User logins from Homework 4
+* Leveraging ChatGPT and Langchain, from Homework 4
+
+There are two major elements that have not been part of homeworks: Websocket-based chat and Kafka-based streaming.
 
 ## Project Technology Stack
 
