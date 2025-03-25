@@ -1,6 +1,10 @@
 # NETS 2120 Course Project Overview
 
-The course project will involve building "InstaLite," an Instagram-like social media site with full support for images. This project is to be done in *teams* and will build upon components you built over the semester in your homeworks.
+The course project will involve building "InstaLite," an Instagram-like social media site with full support for images. This project is to be done in *teams* and will build upon components you built over the semester in your homeworks.  In particular, you will likely leverage aspects of:
+
+* Image matching from Homework 2, leveraging embeddings and ChromaDB
+* Spark-based recommendations from Homework 3 Milestones 1 and 2
+* Leveraging ChatGPT and Langchain, from Homework 4
 
 ## Project Technology Stack
 
